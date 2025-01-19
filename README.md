@@ -167,9 +167,6 @@ For most users developing open-source software, the GPLv2 license is suitable.
 
 If you are:
 
-Developing and distributing closed-source applications
-Unwilling or unable to comply with GPLv2 requirements
-Requiring dedicated support and customization
+Developing and distributing closed-source applications, unwilling or unable to comply with GPLv2 requirements, or requiring dedicated support and customization please contact us about a commercial license.
 
-Please contact us about a commercial license.
 See LICENSE.md for detailed terms.
