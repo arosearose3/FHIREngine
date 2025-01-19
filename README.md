@@ -158,5 +158,18 @@ Please refer to our contributing guidelines for:
 - Documentation standards
 
 ## License
+FHIREngine is available under a dual license model:
 
-[Add your license information here]
+Open Source License: GNU General Public License v2.0 with FOSS exception
+Commercial License: Available for OEMs, ISVs, and VARs who cannot comply with GPLv2
+
+For most users developing open-source software, the GPLv2 license is suitable. 
+
+If you are:
+
+Developing and distributing closed-source applications
+Unwilling or unable to comply with GPLv2 requirements
+Requiring dedicated support and customization
+
+Please contact us about a commercial license.
+See LICENSE.md for detailed terms.
